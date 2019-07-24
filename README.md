@@ -51,7 +51,7 @@ AVR_GCC_VERSION: 4.5.3
 
 # Licensing
 
-[badge-travis]:         https://travis-ci.com/incyi/AtmelStudio_Travis-CI_Example.svg
+[badge-travis]:         https://travis-ci.com/incyi/AtmelStudio_Travis-CI_Example.svg?token=GXoctkqhAbkBLipxHpR1&branch=master
 [travis-build]:         https://travis-ci.com/incyi/AtmelStudio_Travis-CI_Example
 [travis-ci]:            https://travis-ci.com
 [travis-getstarted]:    https://docs.travis-ci.com/user/getting-started
