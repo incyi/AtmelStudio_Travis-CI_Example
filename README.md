@@ -50,17 +50,10 @@ AVR_GCC_VERSION: 4.5.3
 ```
 
 # Licensing
-GNU General Public License version 3 or later, as published by the Free Software Foundation.
-Modification and redistribution are permitted according to the terms of the GPL.
-The license can be found in the `LICENSE` file.
 
-[Pull requests](https://github.com/vidavidorra/AtmelStudio_Travis-CI_Example/pulls) and [bug reports](https://github.com/vidavidorra/AtmelStudio_Travis-CI_Example/issues) are welcome!
-
-
-[license]:              https://github.com/incyi/AtmelStudio_Travis-CI_Example/blob/master/LICENSE
-[badge-travis]:         https://travis-ci.org/incyi/AtmelStudio_Travis-CI_Example.svg
-[travis-build]:         https://travis-ci.org/incyi/AtmelStudio_Travis-CI_Example
-[travis-ci]:            https://travis-ci.org
+[badge-travis]:         https://travis-ci.com/incyi/AtmelStudio_Travis-CI_Example.svg
+[travis-build]:         https://travis-ci.com/incyi/AtmelStudio_Travis-CI_Example
+[travis-ci]:            https://travis-ci.com
 [travis-getstarted]:    https://docs.travis-ci.com/user/getting-started
 [travis-docs]:          https://docs.travis-ci.com
 [atmel-toolchain]:      http://www.atmel.com/tools/atmelavrtoolchainforlinux.aspx
