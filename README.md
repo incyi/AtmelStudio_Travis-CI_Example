@@ -1,5 +1,6 @@
 # Convert Atmel Studio Makefile to Unix format
 [![Travis build status][badge-travis]][travis-build]
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=incyi_AtmelStudio_Travis-CI_Example&metric=alert_status)](https://sonarcloud.io/dashboard?id=incyi_AtmelStudio_Travis-CI_Example)  
 
 Example of an Atmel Studio project for an ATmega328P with automated build on [Travis CI][travis-ci] (or any other Linux-based system).
 
