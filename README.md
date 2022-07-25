@@ -4,6 +4,7 @@
 
 Example of an Atmel Studio project for an ATmega328P with automated build on [Travis CI][travis-ci] (or any other Linux-based system).
 
+Bismillah ar-Rahmaan ar-Raheem
 
 # Documentation
 At the moment this script is only tested using an Atmel Studio 7 project for an ATmega328P, but it should work for every MCU. Please let me know if you've tested it with a different version of Atmel Studio or a different MCU.
